@@ -2,7 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3200&pause=900&color=D4878A&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Emin+%F0%9F%91%8B;Full-stack+%26+Product+Developer;Co-founder+%40+Avizi;Building+AI-assisted+products+from+Istanbul" alt="Typing intro" />
 
-[![Portfolio](https://img.shields.io/badge/eminozbayraktar.com-D4878A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://eminozbayraktar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emin-ozbayraktar)
 [![Email](https://img.shields.io/badge/Email-1F2328?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emin.ozbayraktarr@gmail.com)
 
