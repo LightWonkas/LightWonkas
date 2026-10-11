@@ -18,7 +18,7 @@
 ### 📊 GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LightWonkas&show_icons=true&include_all_commits=true&hide=stars,issues&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=D4878A&icon_color=D4878A&text_color=c9d1d9&ring_color=D4878A" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LightWonkas&show_icons=true&include_all_commits=true&hide=stars,issues&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=D4878A&icon_color=D4878A&text_color=c9d1d9&ring_color=D4878A&cache_seconds=14400" alt="GitHub stats" />
   <img height="165" src="https://streak-stats.demolab.com?user=LightWonkas&hide_border=true&background=0d1117&ring=D4878A&fire=D4878A&currStreakLabel=D4878A&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="Contribution streak" />
 </p>
 
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td valign="top"><img src="https://skillicons.dev/icons?i=ts,js,nextjs,react,nodejs,tailwind&perline=3&theme=dark" alt="Core stack" /></td>
-    <td valign="top"><img src="https://skillicons.dev/icons?i=supabase,postgres,python&perline=3&theme=dark" alt="Backend & data" /></td>
+    <td valign="top"><img src="https://skillicons.dev/icons?i=supabase,postgres,python,fastapi,sqlite&perline=3&theme=dark" alt="Backend & data" /></td>
     <td valign="top"><img src="https://skillicons.dev/icons?i=git,github,docker,linux,vercel,vscode&perline=3&theme=dark" alt="Tooling" /></td>
   </tr>
 </table>
@@ -52,13 +52,13 @@
 ### 🚀 Notable projects
 
 <p align="center">
-  <a href="https://github.com/LightWonkas/argus-product-showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LightWonkas&repo=argus-product-showcase&hide_border=true&bg_color=0d1117&title_color=D4878A&icon_color=D4878A&text_color=c9d1d9&description_lines_count=3" alt="Argus" /></a>
+  <a href="https://github.com/LightWonkas/argus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LightWonkas&repo=argus&hide_border=true&bg_color=0d1117&title_color=D4878A&icon_color=D4878A&text_color=c9d1d9&description_lines_count=3" alt="Argus" /></a>
   <a href="https://github.com/LightWonkas/avizi-showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LightWonkas&repo=avizi-showcase&hide_border=true&bg_color=0d1117&title_color=D4878A&icon_color=D4878A&text_color=c9d1d9&description_lines_count=3" alt="Avizi" /></a>
 </p>
 
 | Project | What it is | Stack |
 |---|---|---|
-| **Argus** | 24/7 market monitoring & AI-assisted decision support (equities, metals, crypto) | TypeScript · Python · PostgreSQL · LLM |
+| **[Argus](https://github.com/LightWonkas/argus)** | Always-on market & news monitoring with LLM-assisted decision support (equities, metals, crypto) | Python · FastAPI · React · TypeScript · SQLite · Docker |
 | **Avizi** | Location-based social platform for anglers & spearfishers | React Native · Expo · Supabase · PostGIS |
 | **In-car gauge system** | Custom digital gauges reading live vehicle data, carbon fiber housings | Embedded · Electronics · CAD |
 
