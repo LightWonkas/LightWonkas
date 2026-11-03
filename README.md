@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=3200&pause=900&color=D4878A&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Emin+%F0%9F%91%8B;Full-stack+%26+Product+Developer;Co-founder+%40+Avizi;Building+AI-assisted+products+from+Istanbul" alt="Typing intro" />
+<img src="assets/header.svg" alt="Hi, I'm Emin · Full-stack & Product Developer · Co-founder @ Avizi" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emin-ozbayraktar)
 [![Email](https://img.shields.io/badge/Email-1F2328?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emin.ozbayraktarr@gmail.com)
@@ -18,8 +18,8 @@
 ### 📊 GitHub at a glance
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LightWonkas&show_icons=true&include_all_commits=true&hide=stars,issues&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=D4878A&icon_color=D4878A&text_color=c9d1d9&ring_color=D4878A&cache_seconds=14400" alt="GitHub stats" />
-  <img height="165" src="https://streak-stats.demolab.com?user=LightWonkas&hide_border=true&background=0d1117&ring=D4878A&fire=D4878A&currStreakLabel=D4878A&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d" alt="Contribution streak" />
+  <img height="165" src="assets/stats.svg" alt="GitHub stats" />
+  <img height="165" src="assets/streak.svg" alt="Contribution streak" />
 </p>
 
 ### 🧰 Skills
@@ -52,8 +52,8 @@
 ### 🚀 Notable projects
 
 <p align="center">
-  <a href="https://github.com/LightWonkas/argus"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LightWonkas&repo=argus&hide_border=true&bg_color=0d1117&title_color=D4878A&icon_color=D4878A&text_color=c9d1d9&description_lines_count=3" alt="Argus" /></a>
-  <a href="https://github.com/LightWonkas/avizi-showcase"><img src="https://github-readme-stats.vercel.app/api/pin/?username=LightWonkas&repo=avizi-showcase&hide_border=true&bg_color=0d1117&title_color=D4878A&icon_color=D4878A&text_color=c9d1d9&description_lines_count=3" alt="Avizi" /></a>
+  <a href="https://github.com/LightWonkas/argus"><img width="400" src="assets/pin-argus.svg" alt="Argus" /></a>
+  <a href="https://github.com/LightWonkas/avizi-showcase"><img width="400" src="assets/pin-avizi-showcase.svg" alt="Avizi" /></a>
 </p>
 
 | Project | What it is | Stack |

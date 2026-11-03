@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="50" viewBox="0 0 620 50" role="img" aria-label="Hi, I&apos;m Emin 👋 · Full-stack &amp; Product Developer · Co-founder @ Avizi · Building AI-assisted products from Istanbul">
+<title>Hi, I&apos;m Emin 👋 · Full-stack &amp; Product Developer · Co-founder @ Avizi · Building AI-assisted products from Istanbul</title>
+<style>
+  .line { font-family: 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif; font-size: 26px; font-weight: 600; fill: #D4878A;
+    animation: slot 14.4s infinite both; opacity: 0; }
+  .line:first-of-type { opacity: 1; }
+  @keyframes slot {
+    0% { clip-path: inset(0 100% 0 0); opacity: 1; animation-timing-function: steps(28, end); }
+    11.11% { clip-path: inset(0 0 0 0); opacity: 1; }
+    22.22% { clip-path: inset(0 0 0 0); opacity: 1; }
+    25.00%, 100% { clip-path: inset(0 0 0 0); opacity: 0; }
+  }
+  @media (prefers-reduced-motion: reduce) { .line { animation: none; } }
+</style>
+<text x="50%" y="34" text-anchor="middle" class="line" style="animation-delay:0.0s">Hi, I&apos;m Emin 👋</text>
+<text x="50%" y="34" text-anchor="middle" class="line" style="animation-delay:3.6s">Full-stack &amp; Product Developer</text>
+<text x="50%" y="34" text-anchor="middle" class="line" style="animation-delay:7.2s">Co-founder @ Avizi</text>
+<text x="50%" y="34" text-anchor="middle" class="line" style="animation-delay:10.8s">Building AI-assisted products from Istanbul</text>
+</svg>
