@@ -21,9 +21,9 @@
   <svg x="-9" y="-50" width="18" height="18" viewBox="0 0 16 16"><path fill="#D4878A" d="M9.533.753V.752c.217 2.385 1.463 3.626 2.653 4.81C13.37 6.74 14.498 7.863 14.498 10c0 3.5-3 6-6.5 6S1.5 13.512 1.5 10c0-1.298.536-2.56 1.425-3.286.376-.308.862 0 1.035.454C4.46 8.487 5.581 9.5 6.5 9.5c.462 0 .865-.272 1.02-.72.373-1.077-.208-2.288-.672-3.333C6.302 4.234 5.951 2.89 6.36 1.71 6.78.495 7.926.035 9.007.025a.53.53 0 0 1 .526.728Z"/></svg>
 </g>
 <g class="fade" style="animation-delay:300ms">
-  <text x="235" y="96" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="700">1</text>
+  <text x="235" y="96" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="700">0</text>
   <text x="235" y="155" text-anchor="middle" fill="#D4878A" font-size="14" font-weight="700">Current Streak</text>
-  <text x="235" y="175" text-anchor="middle" fill="#8b949e" font-size="12">Nov 3</text>
+  <text x="235" y="175" text-anchor="middle" fill="#8b949e" font-size="12">No streak yet</text>
 </g>
 <g class="fade" style="animation-delay:500ms">
   <text x="391" y="96" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="700">5</text>
