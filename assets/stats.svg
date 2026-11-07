@@ -37,7 +37,7 @@
 <g transform="translate(365 103)">
   <circle r="46" fill="none" stroke="#30363d" stroke-width="7"/>
   <circle r="46" fill="none" stroke="#D4878A" stroke-width="7" stroke-linecap="round" transform="rotate(-90)"
-    stroke-dasharray="289.03" stroke-dashoffset="263.89"
+    stroke-dasharray="289.03" stroke-dashoffset="264.05"
     style="--len:289.03;animation:grow 1.2s ease-out"/>
   <text y="2" text-anchor="middle" fill="#ffffff" font-size="24" font-weight="700">14</text>
   <text y="20" text-anchor="middle" fill="#8b949e" font-size="11">active days</text>
