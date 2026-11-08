@@ -11,7 +11,7 @@
 <line x1="157" y1="40" x2="157" y2="165" stroke="#30363d"/>
 <line x1="313" y1="40" x2="313" y2="165" stroke="#30363d"/>
 <g class="fade" style="animation-delay:100ms">
-  <text x="79" y="96" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="700">459</text>
+  <text x="79" y="96" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="700">0</text>
   <text x="79" y="128" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="600">Total Contributions</text>
   <text x="79" y="150" text-anchor="middle" fill="#8b949e" font-size="12">May 30 – Present</text>
 </g>
@@ -26,8 +26,8 @@
   <text x="235" y="175" text-anchor="middle" fill="#8b949e" font-size="12">No streak yet</text>
 </g>
 <g class="fade" style="animation-delay:500ms">
-  <text x="391" y="96" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="700">5</text>
+  <text x="391" y="96" text-anchor="middle" fill="#ffffff" font-size="28" font-weight="700">0</text>
   <text x="391" y="128" text-anchor="middle" fill="#c9d1d9" font-size="14" font-weight="600">Longest Streak</text>
-  <text x="391" y="150" text-anchor="middle" fill="#8b949e" font-size="12">Sep 29 – Oct 3</text>
+  <text x="391" y="150" text-anchor="middle" fill="#8b949e" font-size="12">No streak yet</text>
 </g>
 </svg>
