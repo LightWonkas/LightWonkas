@@ -12,7 +12,7 @@
 <g class="fade" style="animation-delay:150ms">
   <svg x="25" y="46" width="16" height="16" viewBox="0 0 16 16"><path fill="#D4878A" d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"/></svg>
   <text x="50" y="58" fill="#c9d1d9" font-size="14">Contributions (2026):</text>
-  <text x="235" y="58" fill="#ffffff" font-size="14" font-weight="700">0</text>
+  <text x="235" y="58" fill="#ffffff" font-size="14" font-weight="700">459</text>
 </g>
 <g class="fade" style="animation-delay:270ms">
   <svg x="25" y="70" width="16" height="16" viewBox="0 0 16 16"><path fill="#D4878A" d="M10.5 7.75a2.5 2.5 0 1 1-5 0 2.5 2.5 0 0 1 5 0Zm1.43.75a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5h-3.32Z"/></svg>
@@ -37,9 +37,9 @@
 <g transform="translate(365 103)">
   <circle r="46" fill="none" stroke="#30363d" stroke-width="7"/>
   <circle r="46" fill="none" stroke="#D4878A" stroke-width="7" stroke-linecap="round" transform="rotate(-90)"
-    stroke-dasharray="289.03" stroke-dashoffset="289.03"
+    stroke-dasharray="289.03" stroke-dashoffset="264.35"
     style="--len:289.03;animation:grow 1.2s ease-out"/>
-  <text y="2" text-anchor="middle" fill="#ffffff" font-size="24" font-weight="700">0</text>
+  <text y="2" text-anchor="middle" fill="#ffffff" font-size="24" font-weight="700">14</text>
   <text y="20" text-anchor="middle" fill="#8b949e" font-size="11">active days</text>
 </g>
 <clipPath id="bar"><rect x="25" y="0" width="420" height="8" rx="4"/></clipPath>
