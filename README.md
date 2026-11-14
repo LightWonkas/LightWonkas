@@ -1,26 +1,25 @@
-### Hey, I'm Emin 👋
+<div align="center">
 
-Full-stack & product developer based in Istanbul. Co-founder of **[Avizi](https://lightwonkas.github.io/avizi-showcase)**, a social platform for fishing & spearfishing communities. Freelancing since 2022, mostly on full-stack products, LLM integrations and local-first infrastructure.
+<img src="assets/header.svg" alt="Hi, I'm Emin · Full-stack & Product Developer · Co-founder @ Avizi" />
 
-Open to freelance work and product collaborations.
+Full-stack & product developer in Istanbul, co-founder of **[Avizi](https://lightwonkas.github.io/avizi-showcase)**.<br>
+Building full-stack products, LLM integrations and local-first infrastructure since 2022.
 
-<br>
-
-#### Projects
-
-**[Argus](https://github.com/LightWonkas/argus)**: always-on market & news monitoring with LLM-assisted decision support.<br>
-<sub>Python · FastAPI · React · TypeScript · SQLite · Docker</sub>
-
-**[Avizi](https://github.com/LightWonkas/avizi-showcase)**: location-based social platform for anglers & spearfishers.<br>
-<sub>React Native · Expo · Supabase · PostGIS</sub>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-D4878A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emin-ozbayraktar)
+[![Email](https://img.shields.io/badge/Email-D4878A?style=flat-square&logo=gmail&logoColor=white)](mailto:emin.ozbayraktarr@gmail.com)
+[![Avizi](https://img.shields.io/badge/Avizi-D4878A?style=flat-square&logo=googlemaps&logoColor=white)](https://lightwonkas.github.io/avizi-showcase)
 
 <br>
 
-#### Stack
-
-TypeScript, React / React Native, Next.js, Node, Python, FastAPI, PostgreSQL / Supabase, Docker, Claude & Ollama
+<a href="https://github.com/LightWonkas/argus"><img width="400" src="assets/pin-argus.svg" alt="Argus" /></a>
+<a href="https://github.com/LightWonkas/avizi-showcase"><img width="400" src="assets/pin-avizi-showcase.svg" alt="Avizi" /></a>
 
 <br>
 
-[LinkedIn](https://www.linkedin.com/in/emin-ozbayraktar) · [Email](mailto:emin.ozbayraktarr@gmail.com)
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,supabase,postgres,docker&theme=dark" alt="TypeScript, React, Next.js, Node, Python, FastAPI, Supabase, PostgreSQL, Docker" />
+
+<br>
+
+<sub>Open to freelance & product collaborations</sub>
+
+</div>
