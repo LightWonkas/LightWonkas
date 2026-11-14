@@ -14,8 +14,6 @@ Open to freelance work and product collaborations.
 **[Avizi](https://github.com/LightWonkas/avizi-showcase)**: location-based social platform for anglers & spearfishers.<br>
 <sub>React Native · Expo · Supabase · PostGIS</sub>
 
-**In-car gauge system**: custom digital gauges reading live vehicle data, in carbon fiber housings.<br>
-<sub>Embedded · Electronics · CAD</sub>
 
 <br>
 
