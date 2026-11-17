@@ -14,6 +14,9 @@ Building full-stack products, LLM integrations and local-first infrastructure si
 <a href="https://github.com/LightWonkas/argus"><img width="400" src="assets/pin-argus.svg" alt="Argus" /></a>
 <a href="https://github.com/LightWonkas/avizi-showcase"><img width="400" src="assets/pin-avizi-showcase.svg" alt="Avizi" /></a>
 
+<sub>Side projects</sub><br>
+**[MoMo](https://github.com/M0M0Sec/MoMo)**: Raspberry Pi based wireless security toolkit (WiFi · BLE · SDR) with companion devices: Nexus, GhostBridge, Mimic, Shadow.
+
 <br>
 
 <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,fastapi,supabase,postgres,docker&theme=dark" alt="TypeScript, React, Next.js, Node, Python, FastAPI, Supabase, PostgreSQL, Docker" />
