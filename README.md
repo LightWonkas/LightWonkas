@@ -14,8 +14,8 @@ Building full-stack products, LLM integrations and local-first infrastructure si
 <a href="https://github.com/LightWonkas/argus"><img width="400" src="assets/pin-argus.svg" alt="Argus" /></a>
 <a href="https://github.com/LightWonkas/avizi-showcase"><img width="400" src="assets/pin-avizi-showcase.svg" alt="Avizi" /></a>
 
-<sub>Side projects</sub><br>
-**[MoMo](https://github.com/M0M0Sec/MoMo)**: Raspberry Pi based wireless security toolkit (WiFi · BLE · SDR) with companion devices: Nexus, GhostBridge, Mimic, Shadow.
+<sub>Hobby projects</sub><br>
+I share my hobby projects on **[@M0M0Sec](https://github.com/M0M0Sec)**, mostly Raspberry Pi hardware and wireless security tinkering.
 
 <br>
 
