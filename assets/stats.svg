@@ -32,17 +32,17 @@
 <g class="fade" style="animation-delay:630ms">
   <svg x="25" y="142" width="16" height="16" viewBox="0 0 16 16"><path fill="#D4878A" d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"/></svg>
   <text x="50" y="154" fill="#c9d1d9" font-size="14">Followers:</text>
-  <text x="235" y="154" fill="#ffffff" font-size="14" font-weight="700">4</text>
+  <text x="235" y="154" fill="#ffffff" font-size="14" font-weight="700">7</text>
 </g>
 <g transform="translate(365 103)">
   <circle r="46" fill="none" stroke="#30363d" stroke-width="7"/>
   <circle r="46" fill="none" stroke="#D4878A" stroke-width="7" stroke-linecap="round" transform="rotate(-90)"
-    stroke-dasharray="289.03" stroke-dashoffset="237.83"
+    stroke-dasharray="289.03" stroke-dashoffset="238.12"
     style="--len:289.03;animation:grow 1.2s ease-out"/>
   <text y="2" text-anchor="middle" fill="#ffffff" font-size="24" font-weight="700">31</text>
   <text y="20" text-anchor="middle" fill="#8b949e" font-size="11">active days</text>
 </g>
 <clipPath id="bar"><rect x="25" y="0" width="420" height="8" rx="4"/></clipPath>
-<g transform="translate(0 172)" class="fade" style="animation-delay:800ms"><g clip-path="url(#bar)"><rect x="25.0" y="0" width="308.0" height="8" fill="#3572A5"/><rect x="333.0" y="0" width="80.8" height="8" fill="#3178c6"/><rect x="413.8" y="0" width="13.9" height="8" fill="#e34c26"/><rect x="427.6" y="0" width="12.3" height="8" fill="#336790"/><rect x="440.0" y="0" width="3.4" height="8" fill="#f1e05a"/><rect x="443.4" y="0" width="2.0" height="8" fill="#563d7c"/></g></g>
-<g transform="translate(0 192)" class="fade" style="animation-delay:900ms"><circle cx="29" cy="-4" r="4" fill="#3572A5"/><text x="37" y="0" fill="#c9d1d9" font-size="11">Python 73.3%</text><circle cx="121" cy="-4" r="4" fill="#3178c6"/><text x="129" y="0" fill="#c9d1d9" font-size="11">TypeScript 19.2%</text><circle cx="237" cy="-4" r="4" fill="#e34c26"/><text x="245" y="0" fill="#c9d1d9" font-size="11">HTML 3.3%</text><circle cx="311" cy="-4" r="4" fill="#336790"/><text x="319" y="0" fill="#c9d1d9" font-size="11">PLpgSQL 2.9%</text></g>
+<g transform="translate(0 172)" class="fade" style="animation-delay:800ms"><g clip-path="url(#bar)"><rect x="25.0" y="0" width="302.0" height="8" fill="#3572A5"/><rect x="327.0" y="0" width="87.3" height="8" fill="#3178c6"/><rect x="414.4" y="0" width="13.6" height="8" fill="#e34c26"/><rect x="428.0" y="0" width="12.1" height="8" fill="#336790"/><rect x="440.1" y="0" width="3.4" height="8" fill="#f1e05a"/><rect x="443.4" y="0" width="2.0" height="8" fill="#563d7c"/></g></g>
+<g transform="translate(0 192)" class="fade" style="animation-delay:900ms"><circle cx="29" cy="-4" r="4" fill="#3572A5"/><text x="37" y="0" fill="#c9d1d9" font-size="11">Python 71.9%</text><circle cx="121" cy="-4" r="4" fill="#3178c6"/><text x="129" y="0" fill="#c9d1d9" font-size="11">TypeScript 20.8%</text><circle cx="237" cy="-4" r="4" fill="#e34c26"/><text x="245" y="0" fill="#c9d1d9" font-size="11">HTML 3.2%</text><circle cx="311" cy="-4" r="4" fill="#336790"/><text x="319" y="0" fill="#c9d1d9" font-size="11">PLpgSQL 2.9%</text></g>
 </svg>
